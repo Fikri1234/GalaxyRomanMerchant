@@ -21,6 +21,7 @@ Ask Credits Numeral and type this script
 how much is pish tegj glob glob?
 ```
 ![Alt text](asset/ask_num.PNG?raw=true "Require Credits Numeral")
+
 Ask Credits Numeral and type this script
 ```
 how much is pish tegj glob glob?
