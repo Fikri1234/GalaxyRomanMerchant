@@ -6,11 +6,14 @@ Compile the application
 javac src\com\project\explore\GalaxyRoman.java
 ```
 ![Alt text](asset/compile_app.PNG?raw=true "Compile App")
+
 How to run the application with execute command prompt
 ```
 java src\com\project\explore\GalaxyRoman.java
 ```
+
 Initate Roman Numeral
+
 ![Alt text](asset/run_initiate.PNG?raw=true "Initate Roman Numeral")
 
 Ask Credits Numeral and type this script
