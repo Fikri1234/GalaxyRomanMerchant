@@ -1,6 +1,9 @@
 # Galaxy Merchant Trading Guide
 Convert from Galaxy language to Roman Numeral and lastly to Arabic Numeral 
 
+## System Design Solution
+![Alt text](asset/system_design_solution.jpg?raw=true "System Design Solution")
+
 Compile the application
 ```
 javac src\com\project\explore\GalaxyRoman.java
